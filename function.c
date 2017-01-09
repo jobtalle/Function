@@ -1,7 +1,7 @@
 #include <math.h>
 #include <stdlib.h>
 
-#include "function.h
+#include "function.h"
 
 #ifdef _DEBUG
 #include <assert.h>
